@@ -1,5 +1,5 @@
 # PORTFOLIO-PROTOTYPE
-# Personal Webpage - Ishant Singh
+# Personal Webpage - ISHANT KUMAR
 
 This is a simple **HTML project** that represents my personal profile.  
 It includes basic HTML elements such as headings, paragraphs, images, and hyperlinks.
